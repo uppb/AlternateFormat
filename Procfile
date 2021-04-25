@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser AlternateFormat_Yu.ipynb
+web: voila --port=$PORT --no-browser --template=material --enable_nbextensions=True AlternateFormat_Yu.ipynb
